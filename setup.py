@@ -1,4 +1,4 @@
-#!/usr/bin/python2.5
+#!/usr/bin/python2
 import sys
 import glob
 from distutils.core import setup
