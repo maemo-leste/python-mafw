@@ -4,6 +4,7 @@ import glob
 from distutils.core import setup
 
 sys.path.append("/usr/share/pygtk/2.0")
+sys.path.append("/usr/share/pygobject/2.0")
 from dsextras import BuildExt, TemplateExtension, getoutput
 
 #defsdir = getoutput("pkg-config --variable=defsdir pygtk-2.0")
