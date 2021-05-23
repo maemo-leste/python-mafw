@@ -2,7 +2,7 @@ Source: python-mafw
 Section: python
 Priority: extra
 Maintainer: PyMaemo Team <pymaemo-developers@garage.maemo.org>
-Build-Depends: cdbs, debhelper (>= 5), python-all-dev, python-gtk2-dev, libmafw0-dev, libmafw-shared0-dev
+Build-Depends: cdbs, debhelper (>= 5), python-all-dev, python-gtk2-dev, libmafw0-dev, libmafw-shared0-dev, quilt
 XS-Python-Version: 2.7
 Standards-Version: 3.7.2
 
